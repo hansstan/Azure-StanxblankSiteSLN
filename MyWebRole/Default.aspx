@@ -6,7 +6,7 @@
             <hgroup class="title">
                 <h1>
                     <%: Page.Title %>.</h1>
-                <h2>StanxblankSite V1.0</h2>
+                <h2>StanxblankSite V1.1</h2>
             </hgroup>
         </div>
     </section>

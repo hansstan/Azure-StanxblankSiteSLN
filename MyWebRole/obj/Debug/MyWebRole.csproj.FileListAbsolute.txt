@@ -9,3 +9,4 @@ D:\projects\SampleCode\!Trash\Azure-StanxblankSiteSLN\MyWebRole\bin\System.Web.P
 D:\projects\SampleCode\!Trash\Azure-StanxblankSiteSLN\MyWebRole\bin\Microsoft.WindowsAzure.Diagnostics.xml
 D:\projects\SampleCode\!Trash\Azure-StanxblankSiteSLN\MyWebRole\obj\Debug\MyWebRole.dll
 D:\projects\SampleCode\!Trash\Azure-StanxblankSiteSLN\MyWebRole\obj\Debug\MyWebRole.pdb
+D:\projects\SampleCode\!Trash\Azure-StanxblankSiteSLN\MyWebRole\obj\Debug\MyWebRole.csprojResolveAssemblyReference.cache
