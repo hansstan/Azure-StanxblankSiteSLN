@@ -1,1 +1,10 @@
 D:\projects\SampleCode\!Trash\Azure-StanxblankSiteSLN\Azure-StanxblankSite\bin\Debug\ServiceConfiguration.cscfg
+D:\projects\SampleCode\!Trash\Azure-StanxblankSiteSLN\Azure-StanxblankSite\obj\Debug\MyWebRole\bin\Microsoft.ScriptManager.jQuery.dll
+D:\projects\SampleCode\!Trash\Azure-StanxblankSiteSLN\Azure-StanxblankSite\obj\Debug\MyWebRole\bin\Microsoft.ScriptManager.jQuery.UI.Combined.dll
+D:\projects\SampleCode\!Trash\Azure-StanxblankSiteSLN\Azure-StanxblankSite\obj\Debug\MyWebRole\bin\Microsoft.WindowsAzure.Configuration.dll
+D:\projects\SampleCode\!Trash\Azure-StanxblankSiteSLN\Azure-StanxblankSite\obj\Debug\MyWebRole\bin\Microsoft.WindowsAzure.Diagnostics.dll
+D:\projects\SampleCode\!Trash\Azure-StanxblankSiteSLN\Azure-StanxblankSite\obj\Debug\MyWebRole\bin\Microsoft.WindowsAzure.Diagnostics.xml
+D:\projects\SampleCode\!Trash\Azure-StanxblankSiteSLN\Azure-StanxblankSite\obj\Debug\MyWebRole\bin\Microsoft.WindowsAzure.StorageClient.dll
+D:\projects\SampleCode\!Trash\Azure-StanxblankSiteSLN\Azure-StanxblankSite\obj\Debug\MyWebRole\bin\MyWebRole.dll
+D:\projects\SampleCode\!Trash\Azure-StanxblankSiteSLN\Azure-StanxblankSite\obj\Debug\MyWebRole\bin\MyWebRole.pdb
+D:\projects\SampleCode\!Trash\Azure-StanxblankSiteSLN\Azure-StanxblankSite\obj\Debug\MyWebRole\bin\System.Web.Providers.dll
