@@ -1,0 +1,11 @@
+D:\projects\SampleCode\!Trash\Azure-StanxblankSiteSLN\MyWebRole\bin\MyWebRole.dll
+D:\projects\SampleCode\!Trash\Azure-StanxblankSiteSLN\MyWebRole\bin\MyWebRole.pdb
+D:\projects\SampleCode\!Trash\Azure-StanxblankSiteSLN\MyWebRole\bin\Microsoft.ScriptManager.jQuery.dll
+D:\projects\SampleCode\!Trash\Azure-StanxblankSiteSLN\MyWebRole\bin\Microsoft.ScriptManager.jQuery.UI.Combined.dll
+D:\projects\SampleCode\!Trash\Azure-StanxblankSiteSLN\MyWebRole\bin\Microsoft.WindowsAzure.Configuration.dll
+D:\projects\SampleCode\!Trash\Azure-StanxblankSiteSLN\MyWebRole\bin\Microsoft.WindowsAzure.Diagnostics.dll
+D:\projects\SampleCode\!Trash\Azure-StanxblankSiteSLN\MyWebRole\bin\Microsoft.WindowsAzure.StorageClient.dll
+D:\projects\SampleCode\!Trash\Azure-StanxblankSiteSLN\MyWebRole\bin\System.Web.Providers.dll
+D:\projects\SampleCode\!Trash\Azure-StanxblankSiteSLN\MyWebRole\bin\Microsoft.WindowsAzure.Diagnostics.xml
+D:\projects\SampleCode\!Trash\Azure-StanxblankSiteSLN\MyWebRole\obj\Debug\MyWebRole.dll
+D:\projects\SampleCode\!Trash\Azure-StanxblankSiteSLN\MyWebRole\obj\Debug\MyWebRole.pdb
